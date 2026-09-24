@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(Get-ChildItem -Path \"d:\\\\projects\\\\portfolio-next\" -Recurse -Directory)",
-      "Bash(Select-Object -ExpandProperty FullName)"
-    ]
-  }
-}
